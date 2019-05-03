@@ -23,9 +23,6 @@ namespace AtividadePad2C_GabrielDias_EduardoFrans
             cliente1.transferencia(cliente2, 20);
             Console.WriteLine(C + cliente1.mostrarNumeroConta() + N + cliente1.mostrarNome() + S + cliente1.mostrarSaldo());
             Console.WriteLine("\n" + C + cliente2.mostrarNumeroConta() + N + cliente2.mostrarNome()+ S + cliente2.mostrarSaldo());
-
-
-
         }
     }
 }
